@@ -21,8 +21,8 @@
 
 ## Featured Projects
 
-- 🏠 [**Family Hub**](https://github.com/LixinLi15678/family-hub-public)
-  A self-hosted family collaboration app for shopping, expenses, chores, rewards, and trip budgeting.
+- 🏠 [**Family Hub - AI Family Assistant**](https://github.com/LixinLi15678/family-hub-public)  
+  A self-hosted household management app for families, integrating shopping lists, shared expense tracking, chore rewards, travel budgeting, and an AI agent for conversational expense logging, budget queries, and household task automation.
 
 - ⚡ [**Efficient Token Generation**](https://github.com/LixinLi15678/Efficient-Token-Generation)
   Exploration of efficient token generation and performance-oriented AI workflows.
